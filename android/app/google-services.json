@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212046714640",
+    "project_id": "hotel-9f2ed",
+    "storage_bucket": "hotel-9f2ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212046714640:android:09d6312eef6bbe12193795",
+        "android_client_info": {
+          "package_name": "com.ali.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212046714640-vg0u6q3a9i3ba8ts6455mko8brekj8cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRydulYGyptsF0pK51BCv8IgWvqIWpdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212046714640-vg0u6q3a9i3ba8ts6455mko8brekj8cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
